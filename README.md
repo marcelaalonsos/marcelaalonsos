@@ -1,6 +1,6 @@
 ### Hello World! 👋
 <div id="header" align="center">
-<img src="C:\Users\marce\Desktop\avatar2.png" />
+<img src="![avatar2](https://user-images.githubusercontent.com/114455948/223569258-d053dde9-4155-4d37-9b3c-2611542bdcf0.png)" />
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/marcela-alonso-sandoval/">
