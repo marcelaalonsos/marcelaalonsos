@@ -7,6 +7,7 @@
   <h5>Connect with me</h5>
   <a href="https://www.linkedin.com/in/marcela-alonso-sandoval/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=marcelaalonsos&style=for-the-badge&color=blue" alt="Profile Views"/>
   </div>
 
 ---
