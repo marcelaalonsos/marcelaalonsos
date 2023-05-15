@@ -16,7 +16,7 @@
 I am a Full Stack Developer, with a background in architecture and project management. I'm an agile problem solver and have a decade-long experience managing projects from concept to final product.
   
 - 🔭 I’m looking for new opportunities as a junior software engineer
-- 🌱 Learning GraphQL and Java
+- 🌱 Currently studying CS50x from Harvard
 - ⚡ Fun fact: I finished a marathon with 2 sprained ankles, meaning I can push through challenges!
 - 👷 Personal website under construction
   
